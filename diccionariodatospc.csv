@@ -1,0 +1,8 @@
+Archivo: RecursoDatosProyectosCoinversion.csv,,
+Tabla de montos otorgados en proyectos de coinversi¢n a organizaciones de la sociedad civil,,
+Campo ,Tipo de Dato,Descripcion
+Num.,Numerico,Consecutivo del registro
+Organizaci¢n,Caracter,Nombre de la Organizaci¢n de la Sociedad Civil Apoyada
+Proyecto,Caracter,Nombre del Proyecto registrado en la APBP con el que fue apoyado
+Estado,Caracter,Entidad Federativa donde se encuentra la Organizaci¢n de la Sociedad Civil
+Monto otorgado,Numerico,Monto del apoyo otorgado a la Organizaci¢n de la Sociedad Civil
